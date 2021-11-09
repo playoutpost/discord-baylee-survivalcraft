@@ -1,0 +1,61 @@
+﻿{
+	"token":"BOT-TOKEN",
+	"server_id": "569233466097533031",
+	
+	"realm_casual": "3379871755586518",
+	"realm_clans": "3379862254900004",
+	"realm_reborn": "3379855439032783",
+	
+	"ip_vanillaplus":"play.survivalcraft.club",
+	"ip_vanilla":"vanilla.survivalcraft.club",
+	"ip_creative":"creative.survivalcraft.club",
+	"ip_event":"event.survivalcraft.club",
+	
+	"port":"",
+	
+	"rcon_vanilla_port": "26527",
+	"rcon_vanilla_password": "PASSWORD",
+	
+	"rcon_vfs_port": "25575",
+	"rcon_vfs_password": "PASSWORD",
+
+	"rcon_creative_port": "25575",
+	"rcon_creative_password": "PASSWORD",
+	
+	"mysqlip": "MYSQL_ADDRESS",
+	"mysqluser": "USER",
+	"mysqlpass": "PASSWORD",
+	"mysqldb": "DATABASE",
+
+	"chatid_news": "569343324754804744",
+	"chatid_rules": "569342926237466624",
+	"chatid_donate": "573068557689028638",
+	"chatid_events": "578053892965924864",
+	
+	"chatid_vanilla": "569233466692993067",
+	"chatid_vanillaplus": "587455448345477164",
+	"chatid_casual": "574722557295591424",
+	"chatid_clans": "576251699967164446",
+	"chatid_reborn": "586747999531827236",
+	
+	"chatid_welcome_java": "588938739368329246",
+	"chatid_welcome_realm": "588946154381639692",
+	
+	"chatid_mod_java": "569346488757387274",
+	"chatid_mod_realm": "576883513958203413",
+	
+	"chatid_app_java": "589134563620552724",
+	"chatid_app_realm": "589135201829912589",
+	
+	"chatid_baylee_messages": "589661634545319967",
+	"chatid_baylee_research": "586684401262526477",
+	"chatid_baylee_log": "586704853485486091",
+	"chatid_baylee_test": "578040503321493522",
+
+	"roleid_java": "569344337826152472",
+	"roleid_realm": "579423592173797386",
+	"roleid_admin": "569343892181352450",
+	"roleid_hide_welcome": "584949617926602773",
+	"roleid_hide_java": "590000634145800229",
+	"roleid_hide_realm": "590000694551904260"
+}
